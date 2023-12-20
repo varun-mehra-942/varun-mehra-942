@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=36&duration=7500&color=46C696&width=900&height=70&lines=Welcome+To+Tamanpreet+Singh's+Github+Profile)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=This+is++Varun+Mehra's+Github+Profile)](https://git.io/typing-svg)
 <br>
    My name is Varun Mehra I'm currently learning Web Development. I really enjoy learning new technologies, languages and frameworks. I like to help others and I love to be a part of the Open Source Community.
 <br>
