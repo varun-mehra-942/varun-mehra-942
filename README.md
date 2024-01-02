@@ -30,24 +30,24 @@
 
 <hr>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TAMANPREET13&theme=tokyonight&row=1" alt="TAMANPREET13" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varun-mehra-942&theme=tokyonight&row=1" alt="varun-mehra-942" /></a> </p>
 
 <hr>
 
 <div align="center">
   
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TAMANPREET13&layout=compact)](https://github.com/TAMANPREET13/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varun-mehra-942&layout=compact)](https://github.com/varun-mehra-942/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TAMANPREET13&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=varun-mehra-942&show_icons=true&theme=radical)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TAMANPREET13&theme=cobalt" alt="TAMANPREET13" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varun-mehra-942&theme=cobalt" alt="varun-mehra-942" /></p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=TAMANPREET13&theme=github)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=varun-mehra-942&theme=github)  
 
 
 
-![Visitors](https://gpvc.arturio.dev/TAMANPREET13)  
+![Visitors](https://gpvc.arturio.dev/varun-mehra-942)  
    
 <div align="center">
 
